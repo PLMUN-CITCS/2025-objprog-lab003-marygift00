@@ -15,7 +15,7 @@ public class InputOutputDemo {
         System.out.print("Enter a word or sentence: ");
         String userString = input.nextLine();
 
-        System.out.println("\nYour integer: " + userInt);
+        System.out.println("Your integer: " + userInt);
         System.out.printf("Your decimal number: %.2f\n", userDouble);
         System.out.println("Your string: " + userString);
 
